@@ -1,2 +1,2 @@
 # HookDetect
-Detect function hooks via mhook
+Detect function hooks via mhook.
